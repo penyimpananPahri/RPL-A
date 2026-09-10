@@ -1,0 +1,8 @@
+HxD
+https://mh-nexus.de/en/hxd/
+ultraISO
+https://www.ezbsystems.com/ultraiso/
+re4quadnewage
+https://github.com/JADERLINK/Re4QuadNewAge
+Jaderlink DatUdas Tool
+https://github.com/JADERLINK/JADERLINK_DATUDAS_TOOL
